@@ -1,3 +1,15 @@
+WARNING
+=======
+
+This is a temp repo to test new documentation pages for [JSZip](https://github.com/Stuk/jszip).
+I will :
+
+* push garbage
+* rebase commits
+* delete this repository
+
+In any order at any time, so don't rely on it :)
+
 JSZip
 =====
 
