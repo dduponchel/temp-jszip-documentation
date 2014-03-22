@@ -5,7 +5,7 @@ pygments: true
 source: ./
 # /overwritten
 
-baseurl: /jszip
+baseurl: /temp-jszip-documentation
 
 layouts: ./documentation/_layouts
 permalink: none
